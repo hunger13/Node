@@ -1,0 +1,15 @@
+{
+  "name": "hanchenhao",
+  "version": "1.0.0",
+  "description": "node_test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hanchenhao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "utility": "^1.12.0"
+  }
+}
